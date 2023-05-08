@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola 👋 soy Luis Eduardo Ferreyra Rizzoli
+
+- Estos son algunos de mis proyectos personales:
+<p align="left"> <img src="https://drive.google.com/file/d/10i9Xir4YhXXNkLrpd07dWZJ9JO_hdfyK/view?usp=share_link" /> </p>
 
 <!--
 **Raizu548/Raizu548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
