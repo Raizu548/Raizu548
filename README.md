@@ -1,7 +1,7 @@
 ### Hola 👋 soy Luis Eduardo Ferreyra Rizzoli
 
 - Estos son algunos de mis proyectos personales:
-<p align="left"> <img src="https://drive.google.com/file/d/10i9Xir4YhXXNkLrpd07dWZJ9JO_hdfyK/view?usp=share_link" /> </p>
+<p align="left"> <img width="400" src="https://github.com/Raizu548/Raizu548/blob/master/src/almacenStock.PNG" /> </p>
 
 <!--
 **Raizu548/Raizu548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
