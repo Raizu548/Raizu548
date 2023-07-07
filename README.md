@@ -2,6 +2,7 @@
 
 # Estos son algunos de mis proyectos personales:
 - Java - [Almacen de stock](https://github.com/Raizu548/Almacen_Stock_Trabajo_Integrador)
+- .NET - C# - [Ludo](https://github.com/Raizu548/Ludo_TPI_UTN)
 - Godot 3.3.3, GDScript - [Saltarina](https://raizuya.itch.io/saltarina)
 - Godot 3.4.4, GDScript - [Monster_evolution](https://raizuya.itch.io/monster-evolution)
 - Godot 3.4.4, GDScript - [Godotic](https://raizuya.itch.io/godotic)
